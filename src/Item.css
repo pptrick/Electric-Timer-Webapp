@@ -1,0 +1,20 @@
+.ItemImg{
+    width: 50%;
+}
+
+.ItemText{
+    width: 70%;
+    margin-left: 15%;
+    font-size: 0.2rem;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.ItemContainer{
+    width: 100%;
+    text-align: center;
+}
+
+.ItemResult{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}

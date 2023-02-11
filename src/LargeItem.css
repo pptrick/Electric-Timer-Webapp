@@ -1,0 +1,28 @@
+.LargeItemImg{
+    width: 50%;
+}
+
+.LargeItemValue{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -10px;
+    font-size: 3rem;
+}
+
+.LargeItemText{
+    width: 70%;
+    margin-left: 15%;
+    font-size: 1.5rem;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.LargeItemDistanceText{
+    margin-top: -30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.LargeItemContainer{
+    width: 100%;
+    text-align: center;
+}
