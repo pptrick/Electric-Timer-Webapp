@@ -1,5 +1,8 @@
 # Readme for Electric Timer
 
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://camo.githubusercontent.com/3fef48c9dd876989f3248e19094afc60db5c3af4d18ca40c7c3c6edbf2ae3853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465">
+
 This is a frontend web application which, given an input of a desired distance to travel and a type of personal transportation, the user is able to see how much time it will take to travel that distance using the selected type of transportation, as well as the equivalent amount of time using a different mode of transportation for comparison.
 
  <img src="figure/title.png" style="zoom:100%">
