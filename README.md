@@ -1,13 +1,13 @@
 # Readme for Electric Timer
 
-This is a web application which, given an input of a desired distance to travel and a type of personal transportation, the user is able to see how much time it will take to travel that distance using the selected type of transportation, as well as the equivalent amount of time using a different mode of transportation for comparison.
+This is a frontend web application which, given an input of a desired distance to travel and a type of personal transportation, the user is able to see how much time it will take to travel that distance using the selected type of transportation, as well as the equivalent amount of time using a different mode of transportation for comparison.
 
  <img src="figure/title.png" style="zoom:100%">
 
 ## Basics
 1. Author & Developer: Chuanyu Pan (chuanyu_pan@berkeley.edu)
 2. Link to the code: https://github.com/pptrick/Electric-Timer-Webapp
-3. Link to the video:
+3. Link to the video: https://youtu.be/U2kaktl7N7E
 
 ## Get Started
 
